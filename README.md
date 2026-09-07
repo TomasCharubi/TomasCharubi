@@ -52,27 +52,26 @@ Currently, my main focus is **Java development, SQL databases and backend progra
 
 ## 🧠 Technology Stack
 
-<div align="center">
-
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,haskell,prolog" />
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,haskell,prolog" />
+</p>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### 🛠️ Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
+
 
 ## ⚙️ What I Work With
 
@@ -140,7 +139,6 @@ Exploring AI and its applications in modern software systems.
 
 ---
 
-
 </div>
 
 <br>
@@ -148,5 +146,3 @@ Exploring AI and its applications in modern software systems.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:050505&height=130&section=footer"/>
-
-</div>
