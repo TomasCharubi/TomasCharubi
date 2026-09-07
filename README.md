@@ -1,42 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00f2fe,100:7928ca&height=180&section=header&text=Tomas%20Charubi&fontSize=46&animation=fadeIn&fontColor=00f2fe" width="100%" />
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,75:2563EB,100:7C3AED&height=230&section=header&text=TOMAS%20CHARUBI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Information%20Systems%20Student%20%7C%20Software%20Developer&descSize=18&descAlignY=58&descColor=CBD5E1" width="100%"/>
 
-  ### 🚀 Information Systems Student & Software Developer
-  * Focused on Backend Architecture & Java Development *
+<br>
+
+# 👨‍💻 Information Systems Student
+
+### Building software with **Java, SQL & Backend Technologies**
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Development;Java+%7C+Linux+%7C+MySQL;Information+Systems;Software+Architecture;Always+learning+%26+building" />
+</p>
+
+<br>
+
+<a href="https://github.com/TomasCharubi">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/tomas.charubi">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@amigo.programador">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🚀 About Me
+
+```text
+🎓 Information Systems Student
+💻 Software Developer
+⚙️ Focused on Backend Development
+☕ Java enthusiast
+🗄️ Interested in Databases & System Architecture
+🐧 Linux & Open Source enthusiast
+📚 Constantly learning and improving
+```
+
+I am an **Information Systems student** interested in software development, backend technologies, databases and system architecture.
+
+I enjoy designing and developing software solutions with a focus on **clean code, maintainability and good architecture**.
+
+Currently, my main focus is **Java development, SQL databases and backend programming**.
+
+---
+
+## 🧠 Technology Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,haskell,prolog" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<br><br>
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
 </div>
 
 ---
 
-### 📊 GitHub Activity
+## ⚙️ What I Work With
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TomasCharubi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=ffffff&icon_color=7928ca" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCharubi&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f2fe&text_color=ffffff" width="48%" />
+
+| 💡 Area                 | 🔧 Technologies            |
+| :---------------------- | :------------------------- |
+| **Backend Development** | Java                       |
+| **Databases**           | MySQL · SQL                |
+| **Desktop Development** | Java Swing                 |
+| **Version Control**     | Git · GitHub               |
+| **Operating Systems**   | Linux · Windows            |
+| **Networking**          | TCP/IP · VLAN · DHCP · DNS |
+| **Development Tools**   | NetBeans · VS Code         |
+
 </div>
 
 ---
 
-### 🌐 Social Networks
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://instagram.com/tomas.charubi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@amigo.programador" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TomasCharubi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasCharubi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasCharubi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏗️ Currently Learning
+
+<div align="center">
+
+### ☕ Java & Backend
+
+Developing stronger skills in Java, object-oriented programming and backend architecture.
+
+### 🗄️ Databases
+
+Improving my knowledge of SQL, relational databases, queries and database design.
+
+### 🌐 Computer Networks
+
+Working with networking concepts such as TCP/IP, VLANs, DHCP, DNS and network infrastructure.
+
+### 🧩 Software Architecture
+
+Learning how to design software systems that are maintainable, scalable and well structured.
+
+### 🤖 Artificial Intelligence
+
+Exploring AI and its applications in modern software systems.
+
+</div>
+
+---
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:050505&height=130&section=footer"/>
+
 </div>
